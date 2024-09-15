@@ -50,5 +50,5 @@ I am passionate about leveraging Artificial Intelligence to solve real-world pro
 
 ---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdarifalamshow_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdarifalam&show_icons=true&theme=radical)
 
