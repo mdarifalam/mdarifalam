@@ -7,23 +7,49 @@ I am passionate about leveraging Artificial Intelligence to solve real-world pro
 ### 🛠 Tech Stack:
 
 ### Programming Languages
-- [**Python**](https://www.python.org/), [**SQL**](https://www.mysql.com/), [**C++**](https://isocpp.org/)
+- [**Python**](https://www.python.org/)
+- [**SQL**](https://www.mysql.com/)
+- [**C++**](https://isocpp.org/)
 
 ### Machine Learning
-- [**Supervised Learning**](https://scikit-learn.org/stable/supervised_learning.html), [**Unsupervised Learning**](https://scikit-learn.org/stable/unsupervised_learning.html), [**Deep Learning**](https://www.tensorflow.org/guide/keras), [**Natural Language Processing (NLP)**](https://spacy.io/), [**Generative AI**](https://www.openai.com/research/)
+- [**Supervised Learning**](https://scikit-learn.org/stable/supervised_learning.html)
+- [**Unsupervised Learning**](https://scikit-learn.org/stable/unsupervised_learning.html)
+- [**Deep Learning**](https://www.tensorflow.org/guide/keras)
+- [**Natural Language Processing (NLP)**](https://spacy.io/)
+- [**Generative AI**](https://www.openai.com/research/)
 
 ### Tools and Frameworks
-- [**NumPy**](https://numpy.org/), [**Pandas**](https://pandas.pydata.org/), [**Seaborn**](https://seaborn.pydata.org/), [**Matplotlib**](https://matplotlib.org/), [**Scikit-Learn**](https://scikit-learn.org/), [**TensorFlow**](https://www.tensorflow.org/), [**Keras**](https://keras.io/), [**spaCy**](https://spacy.io/), [**Flask**](https://flask.palletsprojects.com/), [**Jupyter Notebooks**](https://jupyter.org/), [**Git/GitHub**](https://github.com/), [**Power BI**](https://powerbi.microsoft.com/)
+- [**NumPy**](https://numpy.org/)
+- [**Pandas**](https://pandas.pydata.org/)
+- [**Seaborn**](https://seaborn.pydata.org/)
+- [**Matplotlib**](https://matplotlib.org/)
+- [**Scikit-Learn**](https://scikit-learn.org/)
+- [**TensorFlow**](https://www.tensorflow.org/)
+- [**Keras**](https://keras.io/)
+- [**spaCy**](https://spacy.io/)
+- [**Flask**](https://flask.palletsprojects.com/)
+- [**Jupyter Notebooks**](https://jupyter.org/)
+- [**Git/GitHub**](https://github.com/)
+- [**Power BI**](https://powerbi.microsoft.com/)
 
 ### Cloud & Deployment
-- [**AWS (EC2, S3, Lambda, RDS)**](https://aws.amazon.com/), [**Docker**](https://www.docker.com/), [**Kubernetes**](https://kubernetes.io/), [**MLOps**](https://azure.microsoft.com/en-us/overview/mlops/)
+- [**AWS (EC2, S3, Lambda, RDS)**](https://aws.amazon.com/)
+- [**Docker**](https://www.docker.com/)
+- [**Kubernetes**](https://kubernetes.io/)
+- [**MLOps**](https://azure.microsoft.com/en-us/overview/mlops/)
 
 ### Data Analytics
-- [**Hypothesis Testing**](https://en.wikipedia.org/wiki/Hypothesis_testing), [**Time Series Analysis**](https://otexts.com/fpp3/), [**Data Visualization**](https://www.tableau.com/), [**Statistical Analysis**](https://www.ibm.com/analytics/statistical-analysis)
+- [**Hypothesis Testing**](https://en.wikipedia.org/wiki/Hypothesis_testing)
+- [**Time Series Analysis**](https://otexts.com/fpp3/)
+- [**Data Visualization**](https://www.tableau.com/)
+- [**Statistical Analysis**](https://www.ibm.com/analytics/statistical-analysis)
 
 ### Core Computer Skills
-- [**Operating Systems**](https://en.wikipedia.org/wiki/Operating_system), [**DBMS**](https://en.wikipedia.org/wiki/Database_management_system), [**Data Structures & Algorithms**](https://en.wikipedia.org/wiki/Data_structure), [**Computer Networks**](https://en.wikipedia.org/wiki/Computer_network), [**High-Level System Design**](https://en.wikipedia.org/wiki/Systems_design)
-
+- [**Operating Systems**](https://en.wikipedia.org/wiki/Operating_system)
+- [**DBMS**](https://en.wikipedia.org/wiki/Database_management_system)
+- [**Data Structures & Algorithms**](https://en.wikipedia.org/wiki/Data_structure)
+- [**Computer Networks**](https://en.wikipedia.org/wiki/Computer_network)
+- [**High-Level System Design**](https://en.wikipedia.org/wiki/Systems_design)
 ### 💼 Work Experience:
 - **Product Engineer (AI Engineer)** at **Edgeverve**  
   - Worked on predictive models for robot scheduling using various algorithms.  
