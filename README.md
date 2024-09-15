@@ -40,10 +40,6 @@ I am passionate about leveraging Artificial Intelligence to solve real-world pro
 - **[Customer Churn Prediction](#)**  
   A deep learning-based project to predict customer churn using customer data.
 
-### ✍️ Blogs & Articles:
-- [Improving NLP with spaCy](#)  
-- [Deep Learning for Customer Churn](#)
-
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/md-arif-alam-733850162/)  
 - [Email](mailto:arifalam957656@gmail.com)
@@ -54,5 +50,5 @@ I am passionate about leveraging Artificial Intelligence to solve real-world pro
 
 ---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdarifalamshow_icons=true&theme=radical)
 
